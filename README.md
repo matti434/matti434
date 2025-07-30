@@ -2,12 +2,15 @@
 # ¡Hola! 👋 Soy [Tu Nombre] 
 
 ### Desarrollador [Frontend/Backend/Full Stack] 💻
-### Tambien estudiante [ingenieria en sistemas]
+### Tambien estudiante [ingenieria en sistemas] 🚀
+![gif-representativo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRiOGV4YmY4OWIzNXZocm14ZTY2ZGhub2c4MGdpbHp0dDFzc2kzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
 
 ## 🔧 Tecnologías y Herramientas  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,java,ts)](https://skillicons.dev)
 
+## Aprendiendo actualmente 
+![My skills2]()
 ## 📊 Mis Estadísticas  
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=matti434&show_icons=true&theme=radical)](https://github.com/matti434)  
