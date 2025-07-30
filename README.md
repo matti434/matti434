@@ -1,36 +1,32 @@
 
 # ¡Hola! 👋 Soy [Tu Nombre] 
 
-### Desarrollador/a [Frontend/Backend/Full Stack] 💻
-
-Apasionado/a por la tecnología, el código limpio y los proyectos desafiantes.  
-Me encanta aprender cosas nuevas y colaborar en equipo.  
+### Desarrollador [Frontend/Backend/Full Stack] 💻
+### Tambien estudiante [ingenieria en sistemas]
 
 ## 🔧 Tecnologías y Herramientas  
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-(Puedes personalizar los íconos con [skillicons.dev](https://skillicons.dev) o [shields.io](https://shields.io))  
-
 ## 📊 Mis Estadísticas  
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)](https://github.com/TuUsuario)  
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)](https://github.com/TuUsuario)  
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=matti434&layout=compact&theme=radical)](https://github.com/TuUsuario)  
 
 ## 📫 ¿Cómo contactarme?  
 
-- 📧 Email: **tucorreo@ejemplo.com**  
-- 💼 LinkedIn: [Tu Nombre](https://linkedin.com/in/tuperfil)  
-- 🐦 Twitter (X): [@tuusuario](https://twitter.com/tuusuario)  
+- 📧 Email: **matiasnicolaslazarte@gmail.com**  
+- 💼 LinkedIn: [a diseñar](https://linkedin.com/in/tuperfil)  
+- 🐦 instagram: [@a diseñar](https://twitter.com/tuusuario)  
 
 ## ⚡ Fun Fact  
 
-¡[Algo curioso sobre ti, ej: "Aprendí a programar haciendo bots para videojuegos"]!  
+¡"El aprendisaje es dificil pero jamas hay que rendirse, el resultado siempre sera bueno por que el conocimiento te permite seguir hacia donde tu quieras ir."!  
 
 ---
 
-⭐️ De [TuUsuario](https://github.com/TuUsuario)
+⭐️ De [matti434](https://github.com/matti434)
 <!--
 **matti434/matti434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
