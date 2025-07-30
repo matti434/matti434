@@ -10,7 +10,7 @@
 
 ## 📊 Mis Estadísticas  
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)](https://github.com/TuUsuario)  
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=matti434&show_icons=true&theme=radical)](https://github.com/matti434)  
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=matti434&layout=compact&theme=radical)](https://github.com/TuUsuario)  
 
