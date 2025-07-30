@@ -7,10 +7,12 @@
 
 ## 🔧 Tecnologías y Herramientas  
 
-[![My Skills](https://skillicons.dev/icons?i=react,java,ts)](https://skillicons.dev)
+![My skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
-## Aprendiendo actualmente 
-![My skills2]()
+## Aprendiendo actualmente
+
+[![My Skills2](https://skillicons.dev/icons?i=react,java,ts)](https://skillicons.dev)
+
 ## 📊 Mis Estadísticas  
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=matti434&show_icons=true&theme=radical)](https://github.com/matti434)  
