@@ -13,6 +13,11 @@
 
 [![My Skills2](https://skillicons.dev/icons?i=react,java,ts)](https://skillicons.dev)
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,java,ts" alt="Learning Technologies" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/docs/images/n8n-logo.png" alt="n8n" width="48" height="48" />
+</div>
+
 ## 📊 Mis Estadísticas  
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=matti434&show_icons=true&theme=radical)](https://github.com/matti434)  
