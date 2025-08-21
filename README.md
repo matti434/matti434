@@ -3,7 +3,7 @@
 
 ### Desarrollador [Frontend/Backend/Full Stack] 💻
 ### Tambien estudiante [ingenieria en sistemas] 🚀
-![gif-representativo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRiOGV4YmY4OWIzNXZocm14ZTY2ZGhub2c4MGdpbHp0dDFzc2kzNSZlcD12MV9pbnRlcm5hbF9naWZf
+
 
 ## 🔧 Tecnologías y Herramientas  
 
