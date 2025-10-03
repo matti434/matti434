@@ -1,5 +1,5 @@
 
-# ¡Hola! 👋 Soy [Tu Nombre] 
+# Full Stack Developer 
 
 ### Desarrollador [Frontend/Backend/Full Stack] 💻
 ### Tambien estudiante [ingenieria en sistemas] 🚀
