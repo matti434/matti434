@@ -20,6 +20,9 @@
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=matti434&layout=compact&theme=radical)](https://github.com/TuUsuario)  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=matti434&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
 ## 📫 ¿Cómo contactarme?  
 
 - 📧 Email: **matiasnicolaslazarte@gmail.com**  
