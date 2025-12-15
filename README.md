@@ -1,8 +1,8 @@
 
 # Full Stack Developer 
 
-### Desarrollador [Frontend/Backend/Full Stack] 💻
-### Tambien estudiante [ingenieria en sistemas] 🚀
+### Desarrollador Frontend/Backend/Full Stack 💻
+### Tambien estudiante ingenieria en sistemas 🚀
 
 
 ## 🔧 Tecnologías y Herramientas  
