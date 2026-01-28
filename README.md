@@ -1,52 +1,88 @@
+👋 Hola, soy Matías Lazarte
+💻 Full Stack Developer | Trainee / Junior
 
-# Full Stack Developer 
+Desarrollador Full Stack en formación, con foco en crear aplicaciones web y mobile funcionales, claras y escalables. Actualmente estudio Ingeniería en Sistemas y me encuentro en constante aprendizaje, combinando disciplina, práctica y curiosidad.
 
-### Desarrollador Frontend/Backend/Full Stack 💻
-### Tambien estudiante ingenieria en sistemas 🚀
+🚀 Sobre mí
 
+🌱 Buscando mi primer rol como Full Stack Developer
 
-## 🔧 Tecnologías y Herramientas  
+🧠 Perfil estudioso, constante y autodidacta
 
-![My skills](https://skillicons.dev/icons?i=js,html,css)
+📱 Experiencia en desarrollo web y mobile
 
-## Aprendiendo actualmente
+🎬 Interés en edición y contenido audiovisual
 
-[![My Skills2](https://skillicons.dev/icons?i=react,java,ts)](https://skillicons.dev)
+<div align="center">
 
+<table>
+<tr>
+<td align="center" width="33%">
 
-## 📊 Mis Estadísticas  
+### Lenguajes y tecnologías
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java" />
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=matti434&show_icons=true&theme=radical)](https://github.com/matti434)  
+</td>
+<td align="center" width="33%">
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=matti434&layout=compact&theme=radical)](https://github.com/TuUsuario)  
+### Frameworks y librerías
+<img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs,express" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=matti434&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</td>
+<td align="center" width="33%">
 
+### Herramientas y entornos
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 
-## 📫 ¿Cómo contactarme?  
+</td>
+</tr>
+</table>
 
-- 📧 Email: **matiasnicolaslazarte@gmail.com**  
-- 💼 LinkedIn: [a diseñar](https://linkedin.com/in/tuperfil)  
-- 🐦 instagram: [@a diseñar](https://twitter.com/tuusuario)  
+</div>
 
-## ⚡ Fun Fact  
+<p align="center">
+📱 Desarrollo mobile · 🧠 Cursor, Warp · 🎬 DaVinci Resolve
+</p>
 
-¡"El aprendisaje es dificil pero jamas hay que rendirse, el resultado siempre sera bueno por que el conocimiento te permite seguir hacia donde tu quieras ir."!  
+📌 Proyectos Destacados
+
+Espacio reservado para proyectos (se irán agregando)
+
+🔹 Proyecto #1 — Descripción pendiente
+
+🔹 Proyecto #2 — Descripción pendiente
+
+🔹 Proyecto #3 — Descripción pendiente
+
+📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matti434&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matti434&layout=compact&theme=radical" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=matti434&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+## 🌍 Idiomas
+- 🇦🇷 Español — Nativo  
+- 🇺🇸 Inglés — Intermedio (en progreso)  
+- 🇮🇹 Italiano — Básico  
 
 ---
 
-⭐️ De [matti434](https://github.com/matti434)
-<!--
-**matti434/matti434** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contacto
+- 📧 Email: **matiasnicolaslazarte@gmail.com**
+- 📸 Instagram: [@matiaslazarte_18](https://instagram.com/matiaslazarte_18)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Filosofía
+> *"Dar lo mejor de uno mismo para desafiar los límites que uno cree tener. Fallar o triunfar es parte del camino; rendirse sin intentarlo nunca es una opción."*
+
+---
+
+⭐ Siempre abierto a aprender, mejorar y construir soluciones que aporten valor.  
+
+— **Matías Lazarte** · [matti434](https://github.com/matti434)
